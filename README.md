@@ -4,7 +4,6 @@
 
 - **Name**: Harpreet Singh  
 - **Assignment**: 01 – Library Management System  
-- **Due Date**: [Enter your due date if required]  
 - **Course**: CST8130 - Data Structures  
 - **Instructor**: James Mwangi, PhD  
 - **College**: Algonquin College, Ottawa, ON  
